@@ -7,7 +7,7 @@ Personal notes for each exercise have been added to expand understanding.
 # Exercises
 
 1. [Hello World](hello-world/) [ [notes](hello-world/NOTES.md) | [src](https://gobyexample.com/hello-world) ]
-2. Values
+2. [Values](values/) [ [notes](values/NOTES.md) | [src](https://gobyexample.com/values) ]
 3. Variables
 4. Constants
 5. For
