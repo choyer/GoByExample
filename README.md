@@ -8,7 +8,7 @@ Personal notes for each exercise have been added to expand understanding.
 
 1. [Hello World](hello-world/) [ [notes](hello-world/NOTES.md) | [src](https://gobyexample.com/hello-world) ]
 2. [Values](values/) [ [notes](values/NOTES.md) | [src](https://gobyexample.com/values) ]
-3. Variables
+3. [Variables](variables/) [ [notes](/variables/NOTES.md) | [run](https://go.dev/play/p/N5rWndIliJW) | [src](https://gobyexample.com/variables) ]
 4. Constants
 5. For
 6. If/Else
