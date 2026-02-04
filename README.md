@@ -2,9 +2,11 @@
 
 These are my completed exercises from [Go By Example](https://gobyexample.com/) [[github](https://github.com/mmcgrana/gobyexample)] by [Mark McGranaghan](https://markmcgranaghan.com/) and [Eli Bendersky](https://eli.thegreenplace.net/).
 
+Personal notes for each exercise have been added to expand understanding.
+
 # Exercises
 
-1. [Hello World](hello-world/) [ [:memo:](hello-world/NOTES.md) ]
+1. [Hello World](hello-world/) [ [notes](hello-world/NOTES.md) | [src](https://gobyexample.com/hello-world) ]
 2. Values
 3. Variables
 4. Constants
