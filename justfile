@@ -1,9 +1,9 @@
-# create scaffolding for new exercise
-lesson name:
-  @echo 'Creating exercise: {{name}}...'
-  mkdir {{name}}
-  touch {{name}}/{{name}}.go
-  touch {{name}}/NOTES.md
+# create scaffolding for new exercise/lesson
+new lesson:
+  @echo 'Creating exercise: {{lesson}}...'
+  mkdir {{lesson}}
+  touch {{lesson}}/{{lesson}}.go
+  touch {{lesson}}/NOTES.md
 
 # Go run the lesson
 run lesson:
