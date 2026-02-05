@@ -38,4 +38,9 @@ func main() {
 		}
 		fmt.Println(n)
 	}
+
+	// BONUS! Reverse `for` using classic three-component loop syntax.
+	for b := 5; b > 0; b-- {
+		fmt.Println(b)
+	}
 }
