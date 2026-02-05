@@ -12,7 +12,7 @@ Personal notes for each exercise have been added to expand understanding.
 4. [Constants](constants/) [ [notes](/constants/NOTES.md) | [run](https://go.dev/play/p/LfvIxHlpomp) | [src](https://gobyexample.com/constants) ]
 5. [For](for/) [ [notes](for/NOTES.md) | [run](https://go.dev/play/p/_F2rYHNilKa) | [src](https://gobyexample.com/for) ]
 6. [If/Else](if-else/) [ [notes](/if-else/NOTES.md) | [run](https://go.dev/play/p/RKgKzCe7qcF) | [src](https://gobyexample.com/if-else) ]
-7. Switch
+7. [Switch](switch/) [ [notes](/switch/NOTES.md) | [run](https://go.dev/play/p/qVDqWoUQ6AI) | [src](https://gobyexample.com/switch) ]
 8. Arrays
 9. Slices
 10. Maps
