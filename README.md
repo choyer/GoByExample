@@ -11,7 +11,7 @@ Personal notes for each exercise have been added to expand understanding.
 3. [Variables](variables/) [ [notes](/variables/NOTES.md) | [run](https://go.dev/play/p/N5rWndIliJW) | [src](https://gobyexample.com/variables) ]
 4. [Constants](constants/) [ [notes](/constants/NOTES.md) | [run](https://go.dev/play/p/LfvIxHlpomp) | [src](https://gobyexample.com/constants) ]
 5. [For](for/) [ [notes](for/NOTES.md) | [run](https://go.dev/play/p/_F2rYHNilKa) | [src](https://gobyexample.com/for) ]
-6. If/Else
+6. [If/Else](if-else/) [ [notes](/if-else/NOTES.md) | [run](https://go.dev/play/p/RKgKzCe7qcF) | [src](https://gobyexample.com/if-else) ]
 7. Switch
 8. Arrays
 9. Slices
