@@ -14,7 +14,7 @@ Personal notes for each exercise have been added to expand understanding.
 6. [If/Else](if-else/) [ [notes](/if-else/NOTES.md) | [run](https://go.dev/play/p/RKgKzCe7qcF) | [src](https://gobyexample.com/if-else) ]
 7. [Switch](switch/) [ [notes](/switch/NOTES.md) | [run](https://go.dev/play/p/qVDqWoUQ6AI) | [src](https://gobyexample.com/switch) ]
 8. [Arrays](arrays/) [ [notes](arrays/NOTES.md) | [run](https://go.dev/play/p/-NFSggT7dFH) | [src](https://gobyexample.com/arrays) ]
-9. Slices
+9. [Slices](slices/) [ [notes](/slices/NOTES.md) | [run](https://go.dev/play/p/9-U3-8sKQun) | [src](https://gobyexample.com/slices) ]
 10. Maps
 11. Functions
 12. Multiple Return Values
