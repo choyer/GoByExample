@@ -15,7 +15,7 @@ Personal notes for each exercise have been added to expand understanding.
 7. [Switch](switch/) [ [notes](/switch/NOTES.md) | [run](https://go.dev/play/p/qVDqWoUQ6AI) | [src](https://gobyexample.com/switch) ]
 8. [Arrays](arrays/) [ [notes](arrays/NOTES.md) | [run](https://go.dev/play/p/-NFSggT7dFH) | [src](https://gobyexample.com/arrays) ]
 9. [Slices](slices/) [ [notes](/slices/NOTES.md) | [run](https://go.dev/play/p/9-U3-8sKQun) | [src](https://gobyexample.com/slices) ]
-10. Maps
+10. [Maps](maps/) [ [notes](/maps/NOTES.md) | [run](https://go.dev/play/p/5jpkxJ2T0Lv) | [src](https://gobyexample.com/maps) ]
 11. Functions
 12. Multiple Return Values
 13. Variadic Functions
