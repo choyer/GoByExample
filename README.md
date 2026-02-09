@@ -17,7 +17,7 @@ Personal notes for each exercise have been added to expand understanding.
 9. [Slices](slices/) [ [notes](/slices/NOTES.md) | [run](https://go.dev/play/p/9-U3-8sKQun) | [src](https://gobyexample.com/slices) ]
 10. [Maps](maps/) [ [notes](/maps/NOTES.md) | [run](https://go.dev/play/p/5jpkxJ2T0Lv) | [src](https://gobyexample.com/maps) ]
 11. [Functions](functions/) [ [notes](functions/NOTES.md) | [run](https://go.dev/play/p/-o49-dQfGbK) | [src](https://gobyexample.com/functions) ]
-12. Multiple Return Values
+12. [Multiple Return Values](multiple-return-values/) [ [notes](multiple-return-values/NOTES.md) | [run](https://go.dev/play/p/vZdUvLB1WbK) | [src](https://gobyexample.com/multiple-return-values) ]
 13. Variadic Functions
 14. Closures
 15. Recursion
