@@ -18,7 +18,7 @@ Personal notes for each exercise have been added to expand understanding.
 10. [Maps](maps/) [ [notes](/maps/NOTES.md) | [run](https://go.dev/play/p/5jpkxJ2T0Lv) | [src](https://gobyexample.com/maps) ]
 11. [Functions](functions/) [ [notes](functions/NOTES.md) | [run](https://go.dev/play/p/-o49-dQfGbK) | [src](https://gobyexample.com/functions) ]
 12. [Multiple Return Values](multiple-return-values/) [ [notes](multiple-return-values/NOTES.md) | [run](https://go.dev/play/p/vZdUvLB1WbK) | [src](https://gobyexample.com/multiple-return-values) ]
-13. Variadic Functions
+13. [Variadic Functions](variadic-functions/) [ [notes](/variadic-functions/NOTES.md) | [run](https://go.dev/play/p/glNdE8aKPNq) | [src](https://gobyexample.com/variadic-functions) ]
 14. Closures
 15. Recursion
 16. Range over Built-in Types
