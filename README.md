@@ -20,7 +20,7 @@ Personal notes for each exercise have been added to expand understanding.
 12. [Multiple Return Values](multiple-return-values/) [ [notes](multiple-return-values/NOTES.md) | [run](https://go.dev/play/p/vZdUvLB1WbK) | [src](https://gobyexample.com/multiple-return-values) ]
 13. [Variadic Functions](variadic-functions/) [ [notes](/variadic-functions/NOTES.md) | [run](https://go.dev/play/p/glNdE8aKPNq) | [src](https://gobyexample.com/variadic-functions) ]
 14. [Closures](closures/) [ [notes](/closures/NOTES.md) | [run](https://go.dev/play/p/NpgpzS8ZG8y) | [src](https://gobyexample.com/closures) ]
-15. Recursion
+15. [Recursion](recursion/) [ [notes](/recursion/NOTES.md) | [run](https://go.dev/play/p/k4IRATLn9cE) | [src](https://gobyexample.com/recursion) ]
 16. Range over Built-in Types
 17. Pointers
 18. Strings and Runes
