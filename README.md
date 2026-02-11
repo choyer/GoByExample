@@ -23,7 +23,7 @@ Personal notes for each exercise have been added to expand understanding.
 15. [Recursion](recursion/) [ [notes](/recursion/NOTES.md) | [run](https://go.dev/play/p/k4IRATLn9cE) | [src](https://gobyexample.com/recursion) ]
 16. [Range over Built-in Types](/range-over-built-in-types/) [ [notes](/range-over-built-in-types/NOTES.md) | [run](https://go.dev/play/p/S171w0PjgsD) | [src](https://gobyexample.com/range-over-built-in-types) ]
 17. [Pointers](pointers/) [ [notes](pointers/NOTES.md) | [run](https://go.dev/play/p/OlWCLpxAyBz) | [src](https://gobyexample.com/pointers) ]
-18. Strings and Runes
+18. [Strings and Runes](strings-and-runes/) [ [notes](/strings-and-runes/NOTES.md) | [run](https://go.dev/play/p/-iNDXZ9IM3s) | [src](https://gobyexample.com/strings-and-runes) ]
 19. Structs
 20. Methods
 21. Interfaces
