@@ -25,7 +25,7 @@ Personal notes for each exercise have been added to expand understanding.
 17. [Pointers](pointers/) [ [notes](pointers/NOTES.md) | [run](https://go.dev/play/p/OlWCLpxAyBz) | [src](https://gobyexample.com/pointers) ]
 18. [Strings and Runes](strings-and-runes/) [ [notes](/strings-and-runes/NOTES.md) | [run](https://go.dev/play/p/-iNDXZ9IM3s) | [src](https://gobyexample.com/strings-and-runes) ]
 19. [Structs](structs/) [ [notes](/structs/NOTES.md) | [run](https://go.dev/play/p/56SPo-L2nMN) | [src](https://gobyexample.com/structs) ]
-20. Methods
+20. [Methods](methods/) [ [notes](methods/NOTES.md) | [run](https://go.dev/play/p/4wmDCAydC1e) | [src](https://gobyexample.com/methods) ]
 21. Interfaces
 22. Enums
 23. Struct Embedding
