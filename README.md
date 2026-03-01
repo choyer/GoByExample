@@ -27,7 +27,7 @@ Personal notes for each exercise have been added to expand understanding.
 19. [Structs](structs/) [ [notes](/structs/NOTES.md) | [run](https://go.dev/play/p/56SPo-L2nMN) | [src](https://gobyexample.com/structs) ]
 20. [Methods](methods/) [ [notes](methods/NOTES.md) | [run](https://go.dev/play/p/4wmDCAydC1e) | [src](https://gobyexample.com/methods) ]
 21. [Interfaces](interfaces/) [ [notes](/interfaces/NOTES.md) | [run](https://go.dev/play/p/xAAbgd7GOKD) | [src](https://gobyexample.com/interfaces) ]
-22. Enums
+22. [Enums](enums/) [ [notes]() | [run](https://go.dev/play/p/prQMptP_p1s) | [src](https://gobyexample.com/enums) ]
 23. Struct Embedding
 24. Generics
 25. Range over Iterators
