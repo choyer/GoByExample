@@ -31,7 +31,7 @@ Personal notes for each exercise have been added to expand understanding.
 23. [Struct Embedding](struct-embedding/) [ [notes](/struct-embedding/NOTES.md) | [run](https://go.dev/play/p/-LOu1L0i2tR) | [src](https://gobyexample.com/struct-embedding) ]
 24. [Generics](/generics/) [ [notes](/generics/NOTES.md) | [run](https://go.dev/play/p/7v7vElzhAeO) | [src](https://gobyexample.com/generics) ]
 25. [Range over Iterators] [ [notes](/range-over-iterators/NOTES.md) | [run](https://go.dev/play/p/lHX3uDqdfUB) | [src](https://gobyexample.com/range-over-iterators) ]
-26. Errors
+26. [Errors](errors/) [ [notes](/errors/NOTES.md) | [run](https://go.dev/play/p/xWXAMmcrbTs) | [src](https://gobyexample.com/errors) ]
 27. Custom Errors
 28. Goroutines
 29. Channels
