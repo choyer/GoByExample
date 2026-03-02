@@ -33,7 +33,7 @@ Personal notes for each exercise have been added to expand understanding.
 25. [Range over Iterators] [ [notes](/range-over-iterators/NOTES.md) | [run](https://go.dev/play/p/lHX3uDqdfUB) | [src](https://gobyexample.com/range-over-iterators) ]
 26. [Errors](errors/) [ [notes](/errors/NOTES.md) | [run](https://go.dev/play/p/xWXAMmcrbTs) | [src](https://gobyexample.com/errors) ]
 27. [Custom Errors](/custom-errors/) [ [notes](/custom-errors/NOTES.md) | [run](https://go.dev/play/p/0WHh8JFOjQq) | [src](https://gobyexample.com/custom-errors) ]
-28. Goroutines
+28. [Goroutines](/goroutines/) [ [notes](/goroutines/NOTES.md) | [run](https://go.dev/play/p/0fx_WokYVFO) | [src](https://go.dev/play/p/0fx_WokYVFO) ]
 29. Channels
 30. Channel Buffering
 31. Channel Synchronization
