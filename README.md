@@ -34,7 +34,7 @@ Personal notes for each exercise have been added to expand understanding.
 26. [Errors](errors/) [ [notes](/errors/NOTES.md) | [run](https://go.dev/play/p/xWXAMmcrbTs) | [src](https://gobyexample.com/errors) ]
 27. [Custom Errors](/custom-errors/) [ [notes](/custom-errors/NOTES.md) | [run](https://go.dev/play/p/0WHh8JFOjQq) | [src](https://gobyexample.com/custom-errors) ]
 28. [Goroutines](/goroutines/) [ [notes](/goroutines/NOTES.md) | [run](https://go.dev/play/p/0fx_WokYVFO) | [src](https://go.dev/play/p/0fx_WokYVFO) ]
-29. Channels
+29. [Channels](channels/) [ [notes](/channels/NOTES.md) | [run](https://go.dev/play/p/MaLY7AiAkHM) | [src](https://gobyexample.com/channels) ]
 30. Channel Buffering
 31. Channel Synchronization
 32. Channel Directions
