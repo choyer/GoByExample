@@ -36,7 +36,7 @@ Personal notes for each exercise have been added to expand understanding.
 28. [Goroutines](/goroutines/) [ [notes](/goroutines/NOTES.md) | [run](https://go.dev/play/p/0fx_WokYVFO) | [src](https://go.dev/play/p/0fx_WokYVFO) ]
 29. [Channels](channels/) [ [notes](/channels/NOTES.md) | [run](https://go.dev/play/p/MaLY7AiAkHM) | [src](https://gobyexample.com/channels) ]
 30. [Channel Buffering](/channel-buffering/) [ [notes](/channel-buffering/NOTES.md) | [run](https://go.dev/play/p/3BRCdRnRszb) | [src](https://gobyexample.com/channel-buffering) ]
-31. Channel Synchronization
+31. [Channel Synchronization](/channel-synchronization/) [ [notes](/channel-synchronization/NOTES.md) | [run](https://go.dev/play/p/Nw-1DzIGk5f) | [src](https://gobyexample.com/channel-synchronization) ]
 32. Channel Directions
 33. Select
 34. Timeouts
