@@ -38,7 +38,7 @@ Personal notes for each exercise have been added to expand understanding.
 30. [Channel Buffering](/channel-buffering/) [ [notes](/channel-buffering/NOTES.md) | [run](https://go.dev/play/p/3BRCdRnRszb) | [src](https://gobyexample.com/channel-buffering) ]
 31. [Channel Synchronization](/channel-synchronization/) [ [notes](/channel-synchronization/NOTES.md) | [run](https://go.dev/play/p/Nw-1DzIGk5f) | [src](https://gobyexample.com/channel-synchronization) ]
 32. [Channel Directions](/channel-directions/) [ [notes](/channel-directions/NOTES.md) | [run](https://go.dev/play/p/mjNJDHwUH4R) | [src](https://gobyexample.com/channel-directions) ]
-33. Select
+33. [Select](/select/) [ [notes](/select/NOTES.md) | [run](https://go.dev/play/p/dOrjUfgGwB2) | [src](https://gobyexample.com/select) ]
 34. Timeouts
 35. Non-Blocking Channel Operations
 36. Closing Channels
