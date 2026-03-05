@@ -39,7 +39,7 @@ Personal notes for each exercise have been added to expand understanding.
 31. [Channel Synchronization](/channel-synchronization/) [ [notes](/channel-synchronization/NOTES.md) | [run](https://go.dev/play/p/Nw-1DzIGk5f) | [src](https://gobyexample.com/channel-synchronization) ]
 32. [Channel Directions](/channel-directions/) [ [notes](/channel-directions/NOTES.md) | [run](https://go.dev/play/p/mjNJDHwUH4R) | [src](https://gobyexample.com/channel-directions) ]
 33. [Select](/select/) [ [notes](/select/NOTES.md) | [run](https://go.dev/play/p/dOrjUfgGwB2) | [src](https://gobyexample.com/select) ]
-34. Timeouts
+34. [Timeouts](/timeouts/) [ [notes](/timeouts/NOTES.md) | [run](https://go.dev/play/p/gyr0NbVKBVf) | [src](https://gobyexample.com/timeouts) ]
 35. Non-Blocking Channel Operations
 36. Closing Channels
 37. Range over Channels
