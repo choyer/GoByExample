@@ -40,7 +40,7 @@ Personal notes for each exercise have been added to expand understanding.
 32. [Channel Directions](/channel-directions/) [ [notes](/channel-directions/NOTES.md) | [run](https://go.dev/play/p/mjNJDHwUH4R) | [src](https://gobyexample.com/channel-directions) ]
 33. [Select](/select/) [ [notes](/select/NOTES.md) | [run](https://go.dev/play/p/dOrjUfgGwB2) | [src](https://gobyexample.com/select) ]
 34. [Timeouts](/timeouts/) [ [notes](/timeouts/NOTES.md) | [run](https://go.dev/play/p/gyr0NbVKBVf) | [src](https://gobyexample.com/timeouts) ]
-35. Non-Blocking Channel Operations
+35. [Non-Blocking Channel Operations](/non-blocking-channel-operations/) [ [notes](/non-blocking-channel-operations/NOTES.md) | [run](https://go.dev/play/p/TFv6-7OVNVq) | [src](https://gobyexample.com/non-blocking-channel-operations) ]
 36. Closing Channels
 37. Range over Channels
 38. Timers
