@@ -41,7 +41,7 @@ Personal notes for each exercise have been added to expand understanding.
 33. [Select](/select/) [ [notes](/select/NOTES.md) | [run](https://go.dev/play/p/dOrjUfgGwB2) | [src](https://gobyexample.com/select) ]
 34. [Timeouts](/timeouts/) [ [notes](/timeouts/NOTES.md) | [run](https://go.dev/play/p/gyr0NbVKBVf) | [src](https://gobyexample.com/timeouts) ]
 35. [Non-Blocking Channel Operations](/non-blocking-channel-operations/) [ [notes](/non-blocking-channel-operations/NOTES.md) | [run](https://go.dev/play/p/TFv6-7OVNVq) | [src](https://gobyexample.com/non-blocking-channel-operations) ]
-36. Closing Channels
+36. [Closing Channels](/closing-channels) [ [notes](/closing-channels/NOTES.md) | [run](https://go.dev/play/p/yZijZHYe22y) | [src](https://gobyexample.com/closing-channels) ]
 37. Range over Channels
 38. Timers
 39. Tickers
