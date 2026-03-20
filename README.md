@@ -43,7 +43,7 @@ Personal notes for each exercise have been added to expand understanding.
 35. [Non-Blocking Channel Operations](/non-blocking-channel-operations/) [ [notes](/non-blocking-channel-operations/NOTES.md) | [run](https://go.dev/play/p/TFv6-7OVNVq) | [src](https://gobyexample.com/non-blocking-channel-operations) ]
 36. [Closing Channels](/closing-channels) [ [notes](/closing-channels/NOTES.md) | [run](https://go.dev/play/p/yZijZHYe22y) | [src](https://gobyexample.com/closing-channels) ]
 37. [Range over Channels](range-over-channels) [ [notes](range-over-channels/NOTES.md) | [run](https://go.dev/play/p/8vA) | [src](https://gobyexample.com/range-over-channels) ]
-38. Timers
+38. [Timers](timers) [ [notes](/timers/NOTES.md) | [run](https://go.dev/play/p/gF7VLRz3URM) | [src](https://gobyexample.com/timers) ]
 39. Tickers
 40. Worker Pools
 41. WaitGroups
