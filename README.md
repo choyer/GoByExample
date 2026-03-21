@@ -45,7 +45,7 @@ Personal notes for each exercise have been added to expand understanding.
 37. [Range over Channels](range-over-channels) [ [notes](range-over-channels/NOTES.md) | [run](https://go.dev/play/p/8vA) | [src](https://gobyexample.com/range-over-channels) ]
 38. [Timers](timers) [ [notes](/timers/NOTES.md) | [run](https://go.dev/play/p/gF7VLRz3URM) | [src](https://gobyexample.com/timers) ]
 39. [Tickers](tickers) [ [notes](/tickers/NOTES.md) | [run](https://go.dev/play/p/gs6zoJP-Pl9) | [src](https://gobyexample.com/tickers) ]
-40. Worker Pools
+40. [Worker Pools](/worker-pools/) [ [notes](/worker-pools/NOTES.md) | [run](https://go.dev/play/p/hiSJJsYZJKL) | [src](https://gobyexample.com/worker-pools) ]
 41. WaitGroups
 42. Rate Limiting
 43. Atomic Counters
