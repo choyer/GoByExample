@@ -46,7 +46,7 @@ Personal notes for each exercise have been added to expand understanding.
 38. [Timers](timers) [ [notes](/timers/NOTES.md) | [run](https://go.dev/play/p/gF7VLRz3URM) | [src](https://gobyexample.com/timers) ]
 39. [Tickers](tickers) [ [notes](/tickers/NOTES.md) | [run](https://go.dev/play/p/gs6zoJP-Pl9) | [src](https://gobyexample.com/tickers) ]
 40. [Worker Pools](/worker-pools/) [ [notes](/worker-pools/NOTES.md) | [run](https://go.dev/play/p/hiSJJsYZJKL) | [src](https://gobyexample.com/worker-pools) ]
-41. WaitGroups
+41. [WaitGroups](/WaitGroups/) [ [notes](/WaitGroups/NOTES.md) | [run](https://go.dev/play/p/csaELahJTWt) | [src](https://gobyexample.com/waitgroups) ]
 42. Rate Limiting
 43. Atomic Counters
 44. Mutexes
