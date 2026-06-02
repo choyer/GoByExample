@@ -48,7 +48,7 @@ Personal notes for each exercise have been added to expand understanding.
 40. [Worker Pools](/worker-pools/) [ [notes](/worker-pools/NOTES.md) | [run](https://go.dev/play/p/hiSJJsYZJKL) | [src](https://gobyexample.com/worker-pools) ]
 41. [WaitGroups](/WaitGroups/) [ [notes](/WaitGroups/NOTES.md) | [run](https://go.dev/play/p/csaELahJTWt) | [src](https://gobyexample.com/waitgroups) ]
 42. [Rate Limiting](/rate-limiting/) [ [notes](/rate-limiting/NOTES.md) | [run](https://go.dev/play/p/y9V3goQfy5m) | [src](https://gobyexample.com/rate-limiting) ]
-43. Atomic Counters
+43. [Atomic Counters](/atomic-counters/) [ [notes](/atomic-counters/NOTES.md) | [run](https://go.dev/play/p/yiGAVfTH49v) | [src](https://gobyexample.com/atomic-counters) ]
 44. Mutexes
 45. Stateful Goroutines
 46. Sorting
