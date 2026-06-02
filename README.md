@@ -4,6 +4,16 @@ These are my completed exercises from [Go By Example](https://gobyexample.com/) 
 
 Personal notes for each exercise have been added to expand understanding.
 
+## Helpers
+
+The following [Just](https://just.systems/) ( [gh](https://github.com/casey/just) | [man](https://just.systems/man/en/) ) commands are available:
+
+### `just new {exercise_name}`
+_ex._ `just new hello-world` creates scaffolding for a new exercise including a new directory named _hello-world_ with a _NOTES.md_ & _hello-world.go_ files.
+
+### `just run {exercise_name}`
+_ex._ `just run hello-world` will run the exercise via `go run ...`
+
 # Exercises
 
 1. [Hello World](hello-world/) [ [notes](hello-world/NOTES.md) | [src](https://gobyexample.com/hello-world) ]
